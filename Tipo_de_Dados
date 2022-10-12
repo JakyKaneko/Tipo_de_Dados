@@ -1,0 +1,18 @@
+Algoritmo "Tipo de Dados"
+// Disciplina   : Criação de Aplicacoes e Sistemas
+// Professor   : Franklin
+// Descrição   : Exercício prático 04 02
+// Autor(a)    : Jaky Kaneko
+// Data atual  : 12/10/2022
+Var
+// Seção de Declarações das Variáveis
+
+
+Inicio
+Escreval ("Nome : João", )
+Escreval ("Idade: ", 4)
+Escreval ("Altura: ", 1,09)
+Escreval ("Criança: ", verdadeiro)
+FIMSE
+
+Fimalgoritmo
